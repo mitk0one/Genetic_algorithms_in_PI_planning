@@ -1,10 +1,10 @@
 # Applying Genetic Algorithms for Optimizing Program Increment Planning in Software Development Team
 
 **Abstract** 
-<br> Effective and efficient Program Increment (PI) planning plays a pivotal role in enhancing collaboration and productivity within software development teams. This paper investigates the integration of Genetic Algorithms (GAs) into the PI planning process to address the challenge of optimizing resource allocation. 
+<br>   Effective and efficient Program Increment (PI) planning plays a pivotal role in enhancing collaboration and productivity within software development teams. This paper investigates the integration of Genetic Algorithms (GAs) into the PI planning process to address the challenge of optimizing resource allocation. 
 <br>
 <br>
-The PI planning process is a critical aspect of Agile methodologies. It can be classified as an operational or a low-level decision making in management, which involves identifying, prioritizing, and allocating user stories and tasks over a defined time frame, typically spanning three months. However, as the scale and complexity of software projects increase, manual PI planning becomes cumbersome and error-prone, leading to suboptimal allocation decisions and potential bottlenecks.
+  The PI planning process is a critical aspect of Agile methodologies. It can be classified as an operational or a low-level decision making in management, which involves identifying, prioritizing, and allocating user stories and tasks over a defined time frame, typically spanning three months. However, as the scale and complexity of software projects increase, manual PI planning becomes cumbersome and error-prone, leading to suboptimal allocation decisions and potential bottlenecks.
 <br>
 <br>
 Genetic Algorithms, inspired by the process of natural selection, offer a novel approach to tackling complex optimization problems such as planning of resources. These algorithms leverage techniques such as selection, crossover, and mutation to iteratively evolve a population of potential solutions. By representing the allocation of tasks and resources as a set of genetic representations, GAs can explore a vast solution space and converge towards optimal or near-optimal configurations. 
