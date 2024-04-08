@@ -1,5 +1,9 @@
 # Applying Genetic Algorithms for Optimizing Program Increment Planning in Software Development Team
 
+**Authors** 
+- Dimitar Lyubchev
+- Angel Marchev Jr
+
 **Abstract** 
 <br>   Effective and efficient Program Increment (PI) planning plays a pivotal role in enhancing collaboration and productivity within software development teams. This paper investigates the integration of Genetic Algorithms (GAs) into the PI planning process to address the challenge of optimizing resource allocation. 
 <br>
