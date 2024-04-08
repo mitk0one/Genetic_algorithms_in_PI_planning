@@ -5,6 +5,8 @@
 <br> Angel Marchev Jr - University of National and World Economy - Sofia, Bulgaria
 <br>
 <br>
+<br>
+<br>
 **Abstract** 
 <br>   Effective and efficient Program Increment (PI) planning plays a pivotal role in enhancing collaboration and productivity within software development teams following the Agile way of working. 
 <br>
