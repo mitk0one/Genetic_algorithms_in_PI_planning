@@ -484,6 +484,6 @@ class Evolution:
 
 
 
-# 5. Run the stupid script
+# 5. Run the script
 
 ga()
