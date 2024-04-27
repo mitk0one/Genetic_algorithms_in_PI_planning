@@ -107,7 +107,6 @@ class Initialization:
 
 # 2. Set up parameters
 
-max_weight = 20
 population_size = 5000
 generations = 50
 selection_thresh = 0.2
