@@ -78,8 +78,6 @@ def calc_mutual_prio(story_dict):
 
 class Initialization:
 
-    # describe items - each item would have weight in KG and value in Euros
-
     n_stories = 140
 
     stories_dict = generate_story(num_stories=n_stories)
